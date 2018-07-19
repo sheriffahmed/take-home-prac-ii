@@ -14,14 +14,8 @@ Your frontend should have the following routes and functionalities:
 
 **'/'** - Homepage. Should include a header with the text 'Forevernote" and two buttons: "About" and "View Notes".
 
-<br></br>
-<details>
-<summary>Memo for all subsequent routes:</summary>
-<p>
+*Memo for all subsequent routes:*
 Every other page on the site, other than the homepage, should have a navbar with 'Forevernote' in the upper-left corner of the screen. That should link to '/'. It should also have links to 'About' and 'View Notes' on the right-hand side, evenly spaced. These should link to '/about' and '/notes', respectively.
-</p>
-</details>
-<br></br>
 
 **'/about'** - About page. Nothing here but a centered header ('About') and underneath that, [lorem ipsum](https://loremipsum.io/) text.
 
