@@ -14,6 +14,7 @@ Your frontend should have the following routes and functionalities:
 
 **'/'** - Homepage. Should include a header with the text 'Forevernote" and two buttons: "About" and "View Notes".
 
+<br></br>
 <details>
 <summary>Memo for all subsequent routes:</summary>
 <p>
