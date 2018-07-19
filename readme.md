@@ -20,6 +20,7 @@ Your frontend should have the following routes and functionalities:
 Every other page on the site, other than the homepage, should have a navbar with 'Forevernote' in the upper-left corner of the screen. That should link to '/'. It should also have links to 'About' and 'View Notes' on the right-hand side, evenly spaced. These should link to '/about' and '/notes', respectively.
 </p>
 </details>
+<br></br>
 
 **'/about'** - About page. Nothing here but a centered header ('About') and underneath that, [lorem ipsum](https://loremipsum.io/) text.
 
@@ -33,4 +34,4 @@ Every other page on the site, other than the homepage, should have a navbar with
 
 ## Wireframes and Styling
 
-In this folder, you should find several .png images that should give you a sense of what this app should look like, structurally. However, beyond this template, we'd like you to express some creativity with how this app looks. You should use at least two colors and at least two fonts imported from Google Fonts. Spacing does not have to be pixel-perfect with the wireframes. Background images and the like are acceptable, as long as they don't distract from the core functionality of the application. If you have any questions, feel free to reach out. 
+In this folder, you should find several .png images that should give you a sense of what this app should look like, structurally. However, beyond this template, we'd like you to express some creativity with how this app looks. You should use at least two colors and at least two fonts imported from Google Fonts. Spacing does not have to be pixel-perfect with the wireframes. Background images and the like are acceptable, as long as they don't distract from the core functionality of the application. If you have any questions, feel free to reach out.
