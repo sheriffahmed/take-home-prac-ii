@@ -12,7 +12,7 @@ There is no .sql file provided for this. It is up to you to conceptualize a data
 
 Your frontend should have the following routes and functionalities:
 
-[**'/'**]('./Home.png') - Homepage. Should include a header with the text 'Forevernote" and two buttons: "About" and "View Notes".
+[**'/'**]('Home.png') - Homepage. Should include a header with the text 'Forevernote" and two buttons: "About" and "View Notes".
 
 *Memo for all subsequent routes:*
 Every other page on the site, other than the homepage, should have a navbar with 'Forevernote' in the upper-left corner of the screen. That should link to '/'. It should also have links to 'About' and 'View Notes' on the right-hand side, evenly spaced. These should link to '/about' and '/notes', respectively.
